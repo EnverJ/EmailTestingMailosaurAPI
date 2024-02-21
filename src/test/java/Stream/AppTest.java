@@ -25,7 +25,7 @@ public class AppTest {
     public  void testExample() throws MailosaurException, IOException {
         String apiKey = "your api key";
         String serverId = "your serverid";
-        String serverDomain = "er95ezyy.mailosaur.net";
+        String serverDomain = "mailosaur.net";
 
         MailosaurClient mailosaur = new MailosaurClient(apiKey);
 
